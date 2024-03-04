@@ -1,5 +1,5 @@
 {
-  "name": "pdf generationof",
+  "name": "pdfgenerationof",
   "version": "1.0.0", 
   "description": "PDF",
   "main": "./src/index.js",
