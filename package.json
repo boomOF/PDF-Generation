@@ -1,6 +1,6 @@
 {
-  "name": "pdfgenerationof",
-  "version": "1.0.0", 
+  "name": "newver",
+  "version": "1.1.0",
   "description": "PDF",
   "main": "./src/index.js",
   "scripts": {
@@ -8,13 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/boomOF/PDF-Generation.git"
+    "url": "git+https://github.com/boomOF/PDF-Generation.git"
   },
-  "keywords": [
-    "", 
-    "",
-    ""
-  ],
+  "keywords": [],
   "author": "boom",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "boomchain": "^1.0.0",
+    "pdfgenerationof": "^1.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/boomOF/PDF-Generation/issues"
+  },
+  "homepage": "https://github.com/boomOF/PDF-Generation#readme",
+  "devDependencies": {}
 }
