@@ -1,5 +1,5 @@
 {
-  "name": "pdfgenerationofver1.1",
+  "name": "pdf-generation",
   "version": "1.1.0",
   "description": "PDF",
   "main": "./src/index.js",
@@ -20,6 +20,5 @@
   "bugs": {
     "url": "https://github.com/boomOF/PDF-Generation"
   },
-  "homepage": "https://github.com/boomOF/PDF-Generation#readme",
-  "devDependencies": {}
+  "homepage": "https://github.com/boomOF/PDF-Generation#readme"
 }
