@@ -1,5 +1,5 @@
 {
-  "name": "newver",
+  "name": "pdfgenerationofver1.1",
   "version": "1.1.0",
   "description": "PDF",
   "main": "./src/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/boomOF/PDF-Generation.git"
+    "url": "git+https://github.com/boomOF/PDF-Generation.git"
   },
   "keywords": [],
   "author": "boom",
@@ -18,7 +18,7 @@
     "pdfgenerationof": "^1.0.0"
   },
   "bugs": {
-    "url": "https://github.com/boomOF/PDF-Generation/issues"
+    "url": "https://github.com/boomOF/PDF-Generation"
   },
   "homepage": "https://github.com/boomOF/PDF-Generation#readme",
   "devDependencies": {}
